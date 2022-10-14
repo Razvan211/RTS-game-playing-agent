@@ -3,8 +3,9 @@
 ## This repository is used to store the final year project for COMP 3000
 
 ## Technologies used: 
-1.Unity engine Version: 2021.3.11f1
-2.Unity Machine Learning Agents
+1. Unity engine Version: 2021.3.11f1
+2. Unity Machine Learning Agents
+
 
 ## Opening Project 
 
